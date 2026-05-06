@@ -1,2 +1,2 @@
-# ScriptsRoblox
-MyScripts
+#Warning
+This script maded for Xeno
